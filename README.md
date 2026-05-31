@@ -16,3 +16,11 @@ Contribution:
 •⁠  ⁠Day-to-day planning and reporting
 •⁠  ⁠Change request management process
 •⁠  ⁠Project charter
+
+Student Name: Md. Riyad Mahmud
+Role: NLP Developer, Task 2 Lead
+Contribution: 
+ - Chatbot core NLP engine development
+- Literature review
+- API integration with CRM/ticketing systems
+- Configuration management with GitHub
