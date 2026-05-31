@@ -17,10 +17,9 @@ Contribution:
 •⁠  ⁠Change request management process
 •⁠  ⁠Project charter
 
-Student Name: Md. Riyad Mahmud
-Role: NLP Developer, Task 2 Lead
-Contribution: 
- - Chatbot core NLP engine development
-- Literature review
-- API integration with CRM/ticketing systems
-- Configuration management with GitHub
+student name: Arka Barua
+Role: UI/UX Developer, Gantt Chart	- Front-end interface design
+contribution: 
+- Gantt chart creation and task interdependencies (Section 3.3)
+- UI/front-end development
+- User documentation and training materials
